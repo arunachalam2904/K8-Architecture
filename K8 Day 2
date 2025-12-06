@@ -22,4 +22,4 @@ API Server – The purpose of API Server is to expose K8 to external world which
 Scheduler – The purpose of scheduler is to schedule pods/resources on k8 , whose will decide where this needs to be schedule -> it is API Servers.
 etcd - Backup service which backups , store entire production cluster information. It is key value store in which entire cluster information stored as objects or key-value pairs
 Controller Manager – In K8 , there are multiple controllers like replica sets and there has to be program where actually these controllers are running that component is called controller manager , Abhishek told like ithu understand pana mudila na..don’t worry , nama deployment , servie lam pakum pothu purium nu
-Cloud Controller Manager – For On prem Data center it is not required not required.
+Cloud Controller Manager – For On prem Data center it is not required.
